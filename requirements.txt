@@ -1,0 +1,13 @@
+click
+Flask
+Flask-Script
+Flask-SQLAlchemy
+gevent
+greenlet
+itsdangerous
+Jinja2
+MarkupSafe
+PyMySQL
+SQLAlchemy
+uWSGI
+Werkzeug
