@@ -16,6 +16,9 @@
 7. 运行uwsgi*uwsgi configure/uwsgi.ini, uwsgi configure/uwsgi_2.ini* 同时运行2个Flask实例均衡负载.
 8. 访问127.0.0.1:8001/example
 PS. 终端运行uwsgi 是不会保留进程的, 你关掉终端进程即会结束并清楚.所以建议使用一些守护进程的工具来保持进程的运行.
+
 ---
 
 变得容易.
+有意见或问题请Issues哦~
+感谢各位!
